@@ -1,2 +1,3 @@
 # first_file
-first
+this is my first file.
+
